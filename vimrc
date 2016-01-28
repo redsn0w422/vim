@@ -1,5 +1,9 @@
+syntax enable
+set tabstop=4
+set softtabstop=4
+set expandtab
+set number
+set cursorline
 inoremap jk <ESC>
-let mapleader = "\<Space>"
-filetype plugin indent on
-syntax on
+filetype indent on
 set encoding=utf-8
