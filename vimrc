@@ -1,7 +1,6 @@
 syntax enable
-set tabstop=4
-set softtabstop=4
-set expandtab
+set tabstop=8
+set softtabstop=8
 set number
 set showcmd
 set cursorline
