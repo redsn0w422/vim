@@ -1,6 +1,8 @@
 syntax enable
-set tabstop=8
-set softtabstop=8
+set hlsearch
+set incsearch
+set tabstop=4
+set softtabstop=4
 set number
 set showcmd
 set cursorline
