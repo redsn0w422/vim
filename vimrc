@@ -10,3 +10,5 @@ inoremap jk <ESC>
 filetype indent on
 set encoding=utf-8
 set showmatch
+
+match Error /\s\+$/
